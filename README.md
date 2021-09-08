@@ -10,7 +10,7 @@ Arena Stats is now [open sourced](https://github.com/TheRobotCohort/arenastats)
 
 #### Current Projects
 - Working on the `pets.txt` standard [@petstxt](https://petstxt.org)
-- `Eco`. A personal web ecosystem inpired by [@IndieWeb](https://indieweb.org)
+- `Eco`. A personal web ecosystem inspired by [@IndieWeb](https://indieweb.org)
 
 #### Contact
 - 💼 Interested in collaborating? [Email](mailto:chris@chaoscontrol.org)
