@@ -1,4 +1,4 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there!
 
 I'm [Chris](https://chaoscontrol.org/), it's nice to meet you! I currently code [@Grin](https://grin.co) (previously [@Carsdotcom](https://github.com/carsdotcom), [@LPS](https://github.com/literacypro), and [@NutshellCRM](https://github.com/nutshellcrm)) but I also hack on a lot of side projects, like [Arcade Supply Co](https://arcadesupplycompany.com) and [GameFruit](https://www.gamefruit.app). I love solving problems and building solutions - code is the perfect medium for it!
 
