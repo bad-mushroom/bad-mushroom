@@ -22,10 +22,6 @@ I love solving problems and building solutions. I also love all things Star Wars
 
 
 
-### Contact
-- 💼 Interested in collaborating? [Email](mailto:chris@chaoscontrol.org)
-- 💬 Or feel just like chatting? That's fine too!
-
 <a href='https://ko-fi.com/H2H0CTMMB' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 ### Languages, Frameworks, and Tools
