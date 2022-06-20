@@ -16,7 +16,7 @@ I love solving problems and building solutions. I also love all things Star Wars
 
 
 #### Current Projects
-- Developing the `pets.txt` standard [@petstxt](https://petstxt.org)
+- Developing the `pets.txt` specification [@petstxt](@petstxt)
 - [Nazo.co](https://www.nazo.co) A web based retro game art guessing game... game
 - [Eco](https://github.com/bad-mushroom/eco) A personal web ecosystem inspired by [@IndieWeb](https://indieweb.org)
 
