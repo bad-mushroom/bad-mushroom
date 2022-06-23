@@ -1,5 +1,5 @@
 
-<img align="left" width="300" alt="octome" src="https://user-images.githubusercontent.com/381203/174481049-49bf0422-b9e9-47ac-a69e-1417ae481117.png">
+<img align="right" width="300" alt="octome" src="https://user-images.githubusercontent.com/381203/174481049-49bf0422-b9e9-47ac-a69e-1417ae481117.png">
 
 I'm [Chris](https://chaoscontrol.org/), it's nice to meet you! 
 
