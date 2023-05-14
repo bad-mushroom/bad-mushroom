@@ -19,6 +19,7 @@ I love solving problems and building solutions. I also love all things Star Wars
 - Developing the `pets.txt` specification [@petstxt](https://github.com/petstxt)
 - [Nazo.co](https://www.nazo.co) A web based retro game art guessing game... game
 - [Gamelogs](https://github.com/bad-mushroom/gamelogs-parser) A log parser for IDTech3 based games.
+- [GameBrainz](https://app.gamebrainz.com) Video game collecting
 
 
 
