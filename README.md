@@ -3,7 +3,7 @@
 
 I'm [Chris](https://chaoscontrol.org/), it's nice to meet you! 
 
-I currently code Aloft (aka [@Kittyhawkio](https://github.com/Kittyhawkio)) (previously [@grininc](https://github.com/grininc), [@Carsdotcom](https://github.com/carsdotcom), [@LPS](https://github.com/literacypro), and [@NutshellCRM](https://github.com/nutshellcrm)) but I also hack on a lot of side projects, like [Arcade Supply Co](https://arcadesupplycompany.com) and [GameFruit](https://www.gamefruit.app). 
+I currently code Aloft (aka [@Kittyhawkio](https://github.com/Kittyhawkio)) (previously [@grininc](https://github.com/grininc), [@Carsdotcom](https://github.com/carsdotcom), [@LPS](https://github.com/literacypro), and [@NutshellCRM](https://github.com/nutshellcrm)) but I also hack on a lot of side projects, like [Arcade Supply Co](https://www.arcadesupplycompany.com) and [GameBrainz](https://www.gamebrainz.com). 
 
 I love solving problems and building solutions. I also love all things Star Wars.
 
@@ -17,10 +17,7 @@ I love solving problems and building solutions. I also love all things Star Wars
 
 
 #### Current Projects
-- Developing the `pets.txt` specification [@petstxt](https://github.com/petstxt)
-- [Nazo.co](https://www.nazo.co) A web based retro game art guessing game... game
-- [Gamelogs](https://github.com/bad-mushroom/gamelogs-parser) A log parser for IDTech3 based games.
-- [GameBrainz](https://app.gamebrainz.com) Video game collecting
+- [GameBrainz](https://www.gamebrainz.com) Video game collecting
 
 
 
